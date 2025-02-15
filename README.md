@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcos!
 
-<!--
-**marqsales/marqsales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Programador Back-end apaixonado por automação, servidores e eficiência no código.
 
-Here are some ideas to get you started:
+🚀 Tecnologias e habilidades:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python – Desenvolvimento back-end, automação e scripts
+
+🖥️ C++ – Programação de alto desempenho
+
+🐧 Linux – Administração de servidores e otimização
+
+🖥️ Shell Script – Automação de tarefas e gerenciamento de sistemas
+
+
+🔧 Sempre explorando novas tecnologias e aprimorando minhas habilidades!
