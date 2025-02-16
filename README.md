@@ -30,6 +30,19 @@
 
 ---
 
+💼 Experiência Profissional
+
+🔧 Estagiário em T.I e Suporte Técnico – Polícia Civil (jul/2023 – abr/2024)
+
+Suporte técnico e manutenção, além de assistências diárias aos usuários da instituição.
+
+
+💻 Técnico em Informática – Polícia Civil (maio/2024 – mai/2025)
+
+Responsável por manutenção de hardware e software, além de auxiliar nos usuários da instituição no interno e call center.
+
+---
+
 ## 📫 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Marcos_Antonio_Sales_Silva)
