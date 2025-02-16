@@ -8,9 +8,13 @@
 ## 🚀 Tecnologias e habilidades:
 
 🐍 Python – Desenvolvimento back-end, automação e scripts
+
 ⚡ C++ – Alto desempenho e otimização de sistemas
+
 🔌 Arduino – Prototipagem e automação com hardware
+
 🐧 Linux – Administração de servidores e otimização de sistemas
+
 🖥️ Shell Script – Automação e gerenciamento de processos
 
 🔧 Estou sempre explorando novas tecnologias e aprimorando minhas habilidades!
