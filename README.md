@@ -32,12 +32,12 @@
 
 💼 Experiência Profissional
 
-🔧 Estagiário em T.I e Suporte Técnico – Polícia Civil (jul/2023 – abr/2024)
+🔧 Estagiário em T.I e Suporte Técnico – DIME(Diretoria de informática manutenção e estatística)- Polícia Civil (jul/2023 – abr/2024)
 
 Suporte técnico e manutenção, além de assistências diárias aos usuários da instituição.
 
 
-💻 Técnico em Informática – Polícia Civil (maio/2024 – mai/2025)
+💻 Técnico em Informática – DIME(Diretoria de informática manutenção e estatística)-Polícia Civil (maio/2024 – mai/2025)
 
 Responsável por manutenção de hardware e software, além de auxiliar nos usuários da instituição no interno e call center.
 
