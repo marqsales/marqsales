@@ -34,4 +34,4 @@
 
 ---
 
-🔥 Sempre buscando desafios e novas oportunidades para crescer na área tech!
+🔥 Sempre buscando desafios e novas oportunidades para crescer na área tech
